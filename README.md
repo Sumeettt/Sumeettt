@@ -6,7 +6,7 @@
 
 
 
-* 👩‍💻  I'm a Frontend Developer.
+* 👩‍💻  I'm a Frontend Developer
 * 🌍  I'm based in Vadodara
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Fun fact I think I am funny
