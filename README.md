@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="55%" height="70%" style="margin:0 50px;"> 
 
 
-
+<b> About Me: </b>
 * 👩‍💻  I'm a Frontend Developer
 * 🌍  I'm based in Vadodara
 * 🤝  I'm open to collaborating on Projects
