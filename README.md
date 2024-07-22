@@ -25,7 +25,7 @@
 
 ### My-Portfolio: 
 
-<a href="https://my-portfolio-sumeet.vercel.app/" target="_blank">My-Portfolio <i class="fa-solid fa-link"></i> </a>
+<a href="https://my-portfolio-sumeet.vercel.app/" target="_blank">My-Portfolio</a>
 
 ### Email: 
 **sumeetp987@gmail.com**
